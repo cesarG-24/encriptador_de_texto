@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Encriptador_de_texto </title>
+    <link href="css/style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logotype">
+                <img src="./images/aluraLogo.svg" alt="">
+            </div>
+        </div>
+    </header>
+
+    <main class="mainContainer">
+        <div class="container">
+          <div class="encoder">
+
+            <section class="encoder1">
+                <div  class="text_encoder">
+
+                    <textarea id="textin" name="textbox1" placeholder="Ingrese el texto aquí" required></textarea>
+                    <div class="alertAndBtn">
+                        <div class="alerta">
+                            <img src="./images/signo_de_exclamacion.svg " alt="signo de exclamacion">
+                            <h6 id="alertaText"> Solo letras minúsculas y sin acentos </h6>
+                        </div>
+
+                        <div class="tools">
+                            <button id="encrypt"> Encriptar </button>
+                            <button id="decrypt"> Desencriptar </button>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+
+
+            <section class="sidebar">
+                <div class="sidebar_cont">
+
+                    <div id="sidebar1">
+                        <div class="muneco">
+                            <img src="./images/muneco.svg" alt="">
+                        </div>
+                            <span class="sidebarTxt1"> Ningún mensaje fue encontrado </span>
+                            <span class="sidebarTxt2"> Ingresa el texto que desees encriptar o desencriptar. </span>
+                        <div >
+                            <img id="alert2" src="./images/alert2.png" alt="alert2">
+                        </div>
+                    </div>
+
+                    <div id="sidebar2">
+                        <textarea name="stringout" id="textout" cols="25" rows="15"></textarea>
+                        <button class="copyBtn" id="copyBtn"> Copiar </button>
+                    </div>
+
+                </div>
+            </section>
+
+
+          </div>
+        </div>
+
+    </main>
+    <footer>
+        <span class="cc"> By César Guerrero</span>
+        <a href="https://github.com/cesarG-24"><img src="./images/github.svg " alt="git"></a>
+        <a href="https://www.linkedin.com/in/cesar-guerrero-4679b6237/"><img src="./images/linkedin.svg" alt="linkedin"></a>
+    </footer>
+
+</body>
+<script src="./script/script.js"></script>
+</html>
