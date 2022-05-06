@@ -314,10 +314,10 @@ body{
     border: 1px dotted coral;
     border-radius: 15px;
     align-content: center;
-    display: flex;
-    flex-direction: row;
     position: center;
+    marging:10px;
 }
+
 
 .copyBtn{
     background-color: rgba(109,210,255,0.18);
