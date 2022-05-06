@@ -298,6 +298,7 @@ body{
 
 #sidebar2{
     display: none;
+    align-content: center;
 }
 
 #textout{
