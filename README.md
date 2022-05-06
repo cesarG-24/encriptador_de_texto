@@ -36,6 +36,4 @@ El resultado debe ser mostrado en la pantalla.<P>
 
 ------
 
-  
-##[haz clic aqui para encriptar un texto <img src="https://cdn-icons-png.flaticon.com/512/4470/4470938.png" >](https://cesarg-24.github.io/encriptador_de_texto/) 
-  <
+### [Clic aqui para encriptar un texto<img align='center' width='70px' img src="https://cdn-icons-png.flaticon.com/512/4470/4470938.png">](https://cesarg-24.github.io/encriptador_de_texto/)
