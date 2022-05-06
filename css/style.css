@@ -314,6 +314,8 @@ body{
     border: 1px dotted coral;
     border-radius: 15px;
     align-content: center;
+    display: flex;
+    flex-direction: row;
 }
 
 .copyBtn{
