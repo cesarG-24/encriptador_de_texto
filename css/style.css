@@ -299,6 +299,7 @@ body{
 #sidebar2{
     display: none;
     align-content: center;
+    margin: 0 5px 0 5px;
 }
 
 #textout{
@@ -316,6 +317,7 @@ body{
     align-content: center;
     position: center;
     marging:10px;
+    margin: 0 60px 0 100px;
 }
 
 
