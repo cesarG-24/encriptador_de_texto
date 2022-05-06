@@ -312,6 +312,7 @@ body{
     box-shadow: 0 10px 20px -5px steelblue;
     border: 1px dotted coral;
     border-radius: 15px;
+    align-content: center;
 }
 
 .copyBtn{
