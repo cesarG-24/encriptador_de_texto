@@ -29,7 +29,6 @@ El resultado debe ser mostrado en la pantalla.<P>
 <img align='center' width="800px" src='https://i.postimg.cc/hGdf7Jqn/Captura-de-Pantalla-2022-05-05-a-la-s-3-32-08-p-m.png'/> 
   
 <img align='center' width="800px" src='https://i.postimg.cc/zDbS3Tw3/encriptador-de-textos.png'/>
-------
 
 ### lenguajes:
   
